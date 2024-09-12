@@ -5,7 +5,7 @@ Hey Fella!![](https://user-images.githubusercontent.com/18350557/176309783-07859
 
 <p align="left">🤓 My name is Debjit :)<br>🎓 I'm a 1st Year B.Tech CSE(DS) student :3<br>🚀 I'm an enthusiastic learner :P<br>🤡 I'm a part-time goofball XD</p>
 
-### Skills:
+### (Noob)Skills:
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
