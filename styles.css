@@ -1,0 +1,126 @@
+@import url("https://fonts.googleapis.com/css2?family=Quicksand:wght@300&display=swap");
+
+body {
+  margin: 0;
+  background: linear-gradient(to bottom, #c11e38, #220b34);
+  color: white;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+  background: linear-gradient(to bottom, #c11e38, #220b34);
+  color: white;
+}
+
+.greeting {
+  display: none;
+  font-family: "Quicksand", sans-serif;
+  font-size: 30px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.content-blocks {
+  display: flex;
+  justify-content: center;
+  width: 80%;
+  max-width: 1200px;
+  margin-top: 20px;
+}
+
+.about-me,
+.my-socials {
+  flex: 1;
+  padding: 20px;
+  text-align: center;
+}
+
+#socials {
+  text-align: center;
+}
+
+h2 {
+  font-family: "Quicksand", sans-serif;
+  font-size: 28px;
+  margin-bottom: 20px;
+}
+
+.social-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
+}
+
+a {
+  font-family: "Quicksand", sans-serif;
+  font-size: 28px;
+  padding: 14px 20px;
+  margin: 8px 0;
+  cursor: pointer;
+  background-color: transparent;
+  color: white;
+  border: hidden;
+  border-radius: 100px;
+  transition: background-color 0.3s, color 0.3s;
+}
+
+a:hover {
+  background-color: #2c2c2c;
+  color: rgb(226, 111, 236);
+}
+
+.about-me p {
+  font-family: "Quicksand", sans-serif;
+  font-size: 18px;
+  line-height: 1.6;
+  margin-bottom: 15px;
+}
+
+.about-me-columns {
+  display: flex;
+  justify-content: space-around;
+  width: 100%;
+  margin-top: 15px;
+  gap: 10px;
+}
+
+.general-info,
+.interests,
+.other-stuff {
+  flex: 1;
+  padding: 10px;
+  text-align: left;
+}
+
+.general-info h3,
+.interests h3,
+.other-stuff h3 {
+  font-size: 20px;
+  margin-bottom: 10px;
+  text-align: center;
+  font-family: "Quicksand", sans-serif;
+}
+
+ul {
+  list-style-type: disc;
+  padding-left: 20px;
+}
+
+li {
+  margin-bottom: 8px;
+}
+
+@media (max-width: 768px) {
+  .about-me-columns {
+    flex-direction: column;
+    align-items: stretch;
+  }
+}
