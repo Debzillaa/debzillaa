@@ -3,7 +3,7 @@ Hey Fella!![](https://user-images.githubusercontent.com/18350557/176309783-07859
 
 ### About me:
 
-<p align="left">🤓 My name is Debjit :)<br>🎓 I'm a 2nd Year B.Tech CSE(DS) student :3<br>🚀 I believe I'm an enthusiastic learner :P<br>🤡 I goof around now and then xd </p>
+<p align="left">🤓 Debzillaa here — running on curiosity & caffeine<br>🎓 2nd Year B.Tech CSE (Data Science) student<br>🚀 Forever learning, forever leveling up<br>🤡 Learning, building, goofing responsibly</p>
 
 ### Noobie skills:
 
