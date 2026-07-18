@@ -3,7 +3,7 @@ Hey Fella!![](https://user-images.githubusercontent.com/18350557/176309783-07859
 
 ### About me:
 
-<p align="left">🤓 Debzillaa here — running on curiosity & caffeine<br>🎓 2nd Year B.Tech CSE (Data Science) student<br>🚀 Forever learning, forever leveling up<br>🤹 Deep into tech, lighthearted by default</p>
+<p align="left">🤓 Debzillaa here — running on curiosity & caffeine<br>🎓 3rd Year B.Tech CSE (Data Science) student<br>🚀 Forever learning, forever leveling up<br>🤹 Deep into tech, lighthearted by default</p>
 
 ### Noobie skills:
 
